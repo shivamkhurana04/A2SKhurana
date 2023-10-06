@@ -3,14 +3,12 @@ body, h1, p {
     padding: 0;
 }
 
-/* Apply a background color and set text color */
 body {
     background-color: beige;
     color: #8B4513;
     font-family: Arial, sans-serif;
 }
 
-/* Style the header section */
 header {
     text-align: center;
     background-color: #A9DFBF;
@@ -26,29 +24,25 @@ header p {
     font-size: 18px;
 }
 
-/* Style the main content area */
 main {
     padding: 30px;
     line-height: 1.5;
 }
 
-/* Style the lyrics section */
 .lyrics {
     font-size: 18px;
     text-align: center;
-    margin-top: 50px; /* Add space between header and lyrics */
+    margin-top: 50px; 
 }
 
-/* Style specific divisions for pre-chorus, chorus, and verses */
 .pre-chorus,
 .chorus,
 .verse {
-    margin-bottom: 20px; /* Add space between each division */
-    padding: 30px; /* Add some padding to divisions for visual separation */
-    border: 2px solid #333; /* Add borders to separate divisions visually */
+    margin-bottom: 20px; 
+    padding: 30px;
+    border: 2px solid #333; 
 }
 
-/* Style the footer section */
 footer {
     text-align: center;
     background-color: gray;
